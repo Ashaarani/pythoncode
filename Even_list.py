@@ -12,5 +12,5 @@ def even_list_finder(a:list) -> list[int]:
 
 
 print(even_list_finder(a_list))
-
+print('asha')
 
